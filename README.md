@@ -7,4 +7,4 @@ https://www.figma.com/proto/WlinxQVqA8EMaTL2RkTUCu/UI-%EB%94%94%EC%9E%90%EC%9D%B
 
   
   ## UIUX 웹 따라 만들기
-  https://www.figma.com/file/NmUgYtTqhdj3S4Bb4mRoKD/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=70%3A3351&t=u2gOcwGAgQRzp4nE-1
+https://www.figma.com/proto/NmUgYtTqhdj3S4Bb4mRoKD/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=0%3A1&node-id=52%3A54&viewport=1327%2C262%2C0.15&scaling=min-zoom&starting-point-node-id=52%3A58
